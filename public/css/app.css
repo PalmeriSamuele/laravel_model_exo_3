@@ -1,0 +1,16 @@
+.genre-female {
+    background-color: pink;
+    width: 100px;
+}
+
+.genre-male {
+    background-color: blue;
+    width: 100px;
+    color: white;
+}
+
+.section-1{
+    display: flex ;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
